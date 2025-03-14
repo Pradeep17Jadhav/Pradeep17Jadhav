@@ -21,7 +21,7 @@ leveraging Java Springboot and NodeJS for Backend development.<br />
 <h2 align="left">Experience & Expertise</h2>
 <ul>
     <li>
-        <strong>4.4 years of experience</strong> in full-stack development, working across a variety of projects from
+        <strong>4.8 years of experience</strong> in full-stack development, working across a variety of projects from
         design to maintenance.
     </li>
     <li>
